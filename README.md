@@ -10,15 +10,21 @@
 - 目标地点：长沙
 
 ## 掌握技能 ##
-### 熟悉 ###
-- Android、Java服务端
-
-### 了解 ###
-- Node.js、Flutter、Vue
-- Modebus串口通讯协议
-
-### 其他 ###
-- Sketch
+- 熟悉Http / Https 协议，了解Https为什么是安全的，熟悉RestApi设计思想。
+- 熟悉对称加密，非对称加密的原理。
+- 了解OkHttp的核心思想。
+- 了解Retrofit的核心思想。
+- 熟悉线程间通讯，Synchronized加锁机制的本质。
+- 熟悉Android中多线程的应用，熟悉Handler的本质，以及为什么AsyncTask可能导致内存泄漏。
+- 了解常用Android架构思想（MVC, MVP, MVVM）。
+- 了解RecycleView缓存机制以及优化。
+- 熟悉SpringBoot框架的搭建，能完成Java服务端代码的编写。
+- 熟悉JWT认证机制。
+- 熟悉Node.js koa框架的搭建，能完成Node.js服务端代码的编写。
+- 熟悉Vue项目的搭建，能完成Vue前端项目的编写。
+- 熟悉Flutter编写，能独立使用Flutter编写跨平台应用程序。
+- 熟悉Ios的上架/更新流程。
+- 能使用Sketch完成基础的原型设计。
 
 ## 工作经历 ##
 ### 2017年11月 - 至今 ###
@@ -27,8 +33,13 @@
 - 相关后台管理系统以及手机端编写。熟悉使用VUE.JS以及其生态圈，能独立编写服务端API以及前端界面、接口对接，实现业务的闭环。负责公司微信端开发。
 
 ### 独立项目 ###
-- 智能水泵手机端：独立使用Flutter开发，尽可能做到了设计界面以及交互的还原。
+- 智能水泵手机端：独立使用Flutter开发，尽可能做到了设计界面以及交互的还原，Ios版本已成功上架Apple Store。因为软件需要开发双平台，为了效率使用Flutter开发，Flutter提供的组件以及热重载能力使得开发效率大大提高，其声明性UI布局方式代表未来的方向（Apple随后发布SwiftUi）。
 - 智能水泵服务端：使用NODE.JS开发服务端，负责部分模块的API编写。
+
+### 开源项目 ###
+- [coolweathercoroutines](https://github.com/LoverJoker/coolweathercoroutines) 酷欧天气协程版使用Kotlin+JetPack+coroutines构建。
+- [BaseNodeJs](https://github.com/LoverJoker/BaseNodeJs) 使用Koa+mongoose搭建的Node.js基础服务端框架。
+
 
 ## 校园经历 ##
 - 电影天堂 APP 开发：兴趣项目，发布在了论坛，[帖子](https://www.52pojie.cn/thread-591278-1-1.html) 被加精置顶，查看 3W+ 次。
